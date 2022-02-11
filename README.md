@@ -17,7 +17,7 @@
 在青龙面板添加拉库任务 ，定时建议40 8-23/4 * * * 
 
 ```
-ql repo https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://github.com/Lxapk/jd.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
 
 ```
 怎么都拉不成功，用下面指令！
